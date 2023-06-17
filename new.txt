@@ -1,5 +1,5 @@
-"person name": "Irina",
-"person age": 27,
-"person weght": 51,
-"person`s pets": "have`t",
-"salary": 2000$
+Person name: Irina,
+person age: 27,
+person weght: 51,
+person`s pets: have`t,
+salary: 2000$.
